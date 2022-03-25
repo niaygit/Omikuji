@@ -7,7 +7,7 @@ namespace DoYouPhp\PhpDesignPattern\ChainOfResponsibilityOmikuji\ConcreteHandler
 use DoYouPhp\PhpDesignPattern\ChainOfResponsibilityOmikuji\Handler\OmikujiHandler;
 
 /**
- * 理後
+ * 英語
  */
 class EnglishOmikuji extends OmikujiHandler
 {
